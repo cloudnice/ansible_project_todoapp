@@ -8,7 +8,7 @@ The Web-Page Application aims to deploy web-page written Nodejs and React Framew
 
 ![Project_007](ansible.png)
 
-- Clarusway has recently ended up a project that aims to serve as web page. You and your colleagues are assigned to work on this project. Clarusway Developer team has done with code and DevOps team is going to deploy the app in production environment using ansible.
+- Company has recently ended up a project that aims to serve as web page. You and your colleagues are assigned to work on this project. Developer team has done with code and DevOps team is going to deploy the app in production environment using ansible.
 
 - Application is coded by Clarusway Fullstack development team and given you as DevOps team. Web-page allows users to collect their infos. Registration data should be kept in separate PostgreSQL database located in one of EC2s. Nodejs framework controls backend and serves on port 5000, it is als connected to the PostgreSQL database on port 5432. React framework controls the frontend and it is also connected to the Nodejs server on port 5000. React server broadcasts web-page on port 3000. 
 
