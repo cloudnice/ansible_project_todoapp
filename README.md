@@ -84,7 +84,7 @@ In the architecture, you can configure your architecture with these conditions,
 ## Project Skeleton 
 
 ```text
-007:clarusway_ansible_proj (folder)
+ansible_proj (folder)
 |
 |----Readme.md               # Given to the students (Definition of the project)
 |----todo-app-perm (folder)  # Given to the students (Nodejs and React files)
